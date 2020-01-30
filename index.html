@@ -1,7 +1,16 @@
-<!DOCTYPE html>
-<html>
-    <body>
-        <h1>Hemlo world</h1>
-        <p>I am hosting on GitHub Pages!</p>
-    </body>
-</html>
+<html><head>
+    <script src="jquery.js"></script>
+    <script>
+    getTxt = function (){
+    
+      $.ajax({
+        url:'text.txt',
+        success: function (data){
+          alert(data);
+        }
+      });
+    }
+    </script>
+    </head><body>
+      <button type="button" id="btnGetTxt" onclick="getTxt()">Get Text</button>
+    </body></html>
