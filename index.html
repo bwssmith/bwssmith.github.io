@@ -6,6 +6,7 @@
       $.ajax({
         url:'aspasia_search.xml',
         success: function (data){
+          alert(data);
           var xmlDoc = new DOMParser().parseFromString(text, "text/xml");
           var Houses   =  xmlDoc.getElementsByTagName("property");
           alert("There are "+Houses.length+" houses");
