@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!-- Qube SLM XML public property search results -->
+<!DOCTYPE aspasia_data SYSTEM "https://salesandlettings.online/pls/ttdirect/aspasia_search.dtd">
+<aspasia_data>
+<company_info name="Qube Global Software" software="Qube SLM" website="www.qubeglobal.com" sales_phone="020 3861 7444" email="info@aspasia.net" address="5-6 Wellington Business Park, Dukes Ride, Crowthorne, Berkshire, RG45 6LS" version="2.8" />
+<featured_prop_lettings id="31135" />
+<featured_prop_sales id="2219" />
+<pagestart>1</pagestart>
+<houses>
+	<property id="93444" prevref="" last_updated="04/11/2019 11:19:48" created_date="11/06/2018 10:16">
+		<id>93444</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>36b Montague Road</address1>
+			<address2></address2>
+			<address3>North End</address3>
+			<town>Portsmouth</town>
+			<county>Hampshire</county>
+			<postcode>PO2 0NF</postcode>
+			<property_location>PO2</property_location>
+			<display_address>Montague Road North End PO2</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>85000</price>
+			<price_text>Guide Price &#163;85,000 (Leasehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>10/09/2019</price_reduced_date>
+			<pre_reduction_price>90000</pre_reduction_price>
+			<beds>1</beds>
+			<baths>1</baths>
+			<receptions>1</receptions>
+			<status>SSTC</status>
+			<long_description>
+				<para>&#42;&#42;CASH BUYERS ONLY&#42;&#42; Ashbourne Estate Agents are please to bring to the open market this one bedroom first floor conversion flat in a popular residential location. The accommodation comprises entrance on the ground floor with stairs leading to the first floor, one double bedroom, kitchen lounge and bathroom. The property also benefits from double glazing, gas central heating and NO ONWARD CHAIN, internal viewings are highly recommended.</para>
+			</long_description>
+			<short_description></short_description>
+			<garden>
+				<para>No</para>
+				<size></size>
+			</garden>
+			<freehold>L</freehold>
+			<remaining_lease>65</remaining_lease>
+			<available_from>11/08/2018</available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code>NEW</prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>FLT</prty_code>
+			<prpa_code>STRT</prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=93444</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=93444</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="07/06/2018 09:40" description="Front (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/111788_T_ADDRESSES_106546_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="07/06/2018 09:40" description="Front (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/111788_T_ADDRESSES_106546_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="07/06/2018 09:40" description="Lounge" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/111791_T_ADDRESSES_106546_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="07/06/2018 09:41" description="Lounge" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/111792_T_ADDRESSES_106546_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="07/06/2018 10:02" description="Kitchen" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/111803_T_ADDRESSES_106546_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="07/06/2018 10:02" description="Kitchen" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/111804_T_ADDRESSES_106546_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="07/06/2018 10:25" description="Bathroom" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/111819_T_ADDRESSES_106546_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="07/06/2018 10:19" description="EPC" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/111815_T_ADDRESSES_106546_OT.gif</picture8>
+			<floorplan1 description="" updated_date="07/06/2018 10:29">https://salesandlettings.online/pls/ttdirect/docs/111828_T_PROPERTY_ELEMENTS_158979.jpg</floorplan1>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=71&amp;potentialenergy=82&amp;currentenvironment=71&amp;potentialenvironment=81&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="99213" prevref="" last_updated="14/11/2019 14:08:22" created_date="21/06/2019 13:02">
+		<id>99213</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>50 Ashurst Road</address1>
+			<address2></address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO6 3HZ</postcode>
+			<property_location>PO6</property_location>
+			<display_address>Ashurst Road, Cosham, PO6</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>99995</price>
+			<price_text>Asking Price &#163;99,995 (Leasehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>27/08/2019</price_reduced_date>
+			<pre_reduction_price>104995</pre_reduction_price>
+			<beds>1</beds>
+			<baths>1</baths>
+			<receptions>1</receptions>
+			<status>AVAI</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale an ideal investment opportunity. This one bedroom apartment in the popular area of Cosham, close to Queen Alexandra Hospital, comes with a tenant-in-situ and has Let very quickly every time we have offered it to the Rental market. Benefitting from good sized lounge, bedroom and kitchen, it also boasts a balcony accessed via the lounge or bedroom. We highly recommend an early viewing to avoid disappointment.</para>
+			</long_description>
+			<short_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale an ideal investment opportunity. This one bedroom apartment in the popular area of Cosham, close to Queen Alexandra Hospital, comes with a tenant-in-situ and has Let very quickly every time we have offered it to the Rental market. Benefitting from good sized lounge, bedroom and kitchen, it also boasts a balcony accessed via the lounge or bedroom. We highly recommend an early viewing to avoid disappointment.</para>
+			</short_description>
+			<garden></garden>
+			<freehold>L</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>FLT</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=99213</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=99213</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="21/06/2019 11:17" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/118483_T_ADDRESSES_112734_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="21/06/2019 11:17" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/118483_T_ADDRESSES_112734_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="21/06/2019 10:43" description="Lounge Area" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/118476_T_ADDRESSES_112734_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="21/06/2019 10:44" description="Lounge Area (1)" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/118477_T_ADDRESSES_112734_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="21/06/2019 10:44" description="Kitchen" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/118478_T_ADDRESSES_112734_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="21/06/2019 10:45" description="Bathroom" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/118479_T_ADDRESSES_112734_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="21/06/2019 10:45" description="Bedroom" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/118480_T_ADDRESSES_112734_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="21/06/2019 10:46" description="Bedroom (1)" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/118481_T_ADDRESSES_112734_OT.jpg</picture8>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=59&amp;potentialenergy=64&amp;currentenvironment=54&amp;potentialenvironment=59&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="100525" prevref="" last_updated="21/11/2019 11:36:17" created_date="21/11/2019 13:52">
+		<id>100525</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>129b London Road</address1>
+			<address2></address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO2 9AA</postcode>
+			<property_location>PO2</property_location>
+			<display_address>London Road, North End, PO2</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>104995</price>
+			<price_text>Asking Price &#163;104,995 (Leasehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date></price_reduced_date>
+			<pre_reduction_price></pre_reduction_price>
+			<beds>1</beds>
+			<baths>1</baths>
+			<receptions>1</receptions>
+			<status>AVAI</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are pleased to offer For Sale this one bedroom second floor flat in the centre of North End, within easy reach of main bus links and local amenities. The property comprises of an entrance hallway, kitchen, lounge/diner, double bedroom and shower room. With a tenant-in-situ and currently generating a gross yield circa 6&#37;, This property is ideal for Buy To Let investors. We highly recommend an early viewing to avoid disappointment. Available to view now. Call 02392 658044 to book your viewing. </para>
+			</long_description>
+			<short_description>
+				<para>Ashbourne Estate Agents are pleased to offer For Sale this one bedroom second floor flat in the centre of North End, within easy reach of main bus links and local amenities. The property comprises of an entrance hallway, kitchen, lounge/diner, double bedroom and shower room. With a tenant-in-situ and currently generating a gross yield circa 6&#37;, This property is ideal for Buy To Let investors. We highly recommend an early viewing to avoid disappointment. Available to view now. Call 02392 658044 to book your viewing.  </para>
+			</short_description>
+			<garden></garden>
+			<freehold>L</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>FLT</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=100525</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=100525</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="21/11/2019 11:24" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/120638_T_ADDRESSES_114103_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="21/11/2019 11:24" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/120638_T_ADDRESSES_114103_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="21/11/2019 11:21" description="Kitchen" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/120630_T_ADDRESSES_114103_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="21/11/2019 11:21" description="Lounge" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/120631_T_ADDRESSES_114103_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="21/11/2019 11:22" description="Bedroom" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/120632_T_ADDRESSES_114103_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="21/11/2019 11:22" description="Bathroom" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/120633_T_ADDRESSES_114103_OT.jpg</picture6>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=51&amp;potentialenergy=78&amp;currentenvironment=62&amp;potentialenvironment=81&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="99090" prevref="" last_updated="15/01/2020 17:34:49" created_date="11/06/2019 11:57">
+		<id>99090</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>355a Copnor Road</address1>
+			<address2></address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO3 5EQ</postcode>
+			<property_location>PO3</property_location>
+			<display_address>Copnor Road Copnor PO3</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>139995</price>
+			<price_text>Asking Price &#163;139,995 (Leasehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date></price_reduced_date>
+			<pre_reduction_price></pre_reduction_price>
+			<beds>2</beds>
+			<baths>1</baths>
+			<receptions>1</receptions>
+			<status>AVAI</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this generously sized two bedroom first floor apartment in the highly desirable and sought after Copnor Road. With double glazing throughout, modern style fitted kitchen and bathroom with bike/bin shed to the rear, we highly recommend an early viewing to avoid disappointment. </para>
+			</long_description>
+			<short_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this generously sized two bedroom first floor apartment in the highly desirable and sought after Copnor Road. With double glazing throughout, modern style fitted kitchen and bathroom with bike/bin shed to the rear, we highly recommend an early viewing to avoid disappointment. </para>
+			</short_description>
+			<garden>
+				<para>Access to Bike/Bin shed</para>
+				<size></size>
+			</garden>
+			<freehold>L</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>FLT</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=99090</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=99090</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="15/01/2020 17:34" description="Main (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/120962_T_ADDRESSES_112618_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="15/01/2020 17:34" description="Main (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/120962_T_ADDRESSES_112618_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="11/06/2019 11:37" description="Lounge Area" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/118399_T_ADDRESSES_112618_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="11/06/2019 11:38" description="Kitchen" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/118400_T_ADDRESSES_112618_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="11/06/2019 11:38" description="Bedroom 1" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/118401_T_ADDRESSES_112618_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="11/06/2019 11:38" description="Bedroom 2" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/118402_T_ADDRESSES_112618_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="11/06/2019 11:39" description="Bathroom" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/118403_T_ADDRESSES_112618_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="11/06/2019 11:39" description="Hallway" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/118404_T_ADDRESSES_112618_OT.jpg</picture8>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=65&amp;potentialenergy=78&amp;currentenvironment=62&amp;potentialenvironment=80&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="81668" prevref="" last_updated="15/01/2020 17:39:00" created_date="10/06/2019 15:56">
+		<id>81668</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>355 Copnor Road</address1>
+			<address2></address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county>Hampshire</county>
+			<postcode>PO3 5EQ</postcode>
+			<property_location>PO3</property_location>
+			<display_address>Copnor Road, Copnor PO3</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>144995</price>
+			<price_text>Asking Price &#163;144,995 (Freehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date></price_reduced_date>
+			<pre_reduction_price></pre_reduction_price>
+			<beds>2</beds>
+			<baths>1</baths>
+			<receptions>1</receptions>
+			<status>AVAI</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this generously sized two bedroom ground floor apartment in the highly desirable and sought after Copnor Road. With double glazing throughout, modern style fitted kitchen and bathroom and courtyard to the rear, we highly recommend an early viewing to avoid disappointment.</para>
+			</long_description>
+			<short_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this generously sized two bedroom ground floor apartment in the highly desirable and sought after Copnor Road. With double glazing throughout, modern style fitted kitchen and bathroom and courtyard to the rear, we highly recommend an early viewing to avoid disappointment.</para>
+			</short_description>
+			<garden>
+				<para>Lean to leading to the garden, mainly laid to patio and shingle areas, &#39;bike/bin shed to the rear</para>
+				<size></size>
+			</garden>
+			<freehold>F</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code></prst_code>
+			<prty_code>FLT</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=81668</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=81668</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="15/01/2020 17:39" description="Main (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/120970_T_ADDRESSES_92721_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="15/01/2020 17:39" description="Main (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/120970_T_ADDRESSES_92721_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="10/06/2019 15:39" description="Lounge Area" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/118369_T_ADDRESSES_92721_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="10/06/2019 15:40" description="Kitchen Area" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/118370_T_ADDRESSES_92721_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="10/06/2019 15:40" description="Bathroom" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/118371_T_ADDRESSES_92721_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="10/06/2019 15:40" description="Bedroom" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/118372_T_ADDRESSES_92721_OT.jpg</picture6>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="98331" prevref="" last_updated="20/01/2020 14:14:53" created_date="29/05/2019 16:37">
+		<id>98331</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>166 Guildford Road</address1>
+			<address2></address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO1 5BE</postcode>
+			<property_location>PO1</property_location>
+			<display_address>Guildford Road, Fratton, PO1</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>159995</price>
+			<price_text>Asking Price &#163;159,995 (Freehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>07/10/2019</price_reduced_date>
+			<pre_reduction_price>174995</pre_reduction_price>
+			<beds>3</beds>
+			<baths>1</baths>
+			<receptions>1</receptions>
+			<status>SSTC</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this family home in the popular area of Guildford Road, Fratton. Boasting (in our opinion) three &#39;good size&#39; bedrooms, a recently re-furbished shower/wet room, modern style fitted kitchen and versatile lounge or lounge/dining room, this property is ideally located for access to the main bus routes, Fratton train station and the local schools. Priced to attract either an investor or a buyer looking to put their own personal touch to their home,  we thoroughly recommend an early viewing to avoid disappointment.</para>
+			</long_description>
+			<short_description>
+				<para> Ashbourne Estate Agents are delighted to present For Sale this family home in the popular area of Guildford Road, Fratton. Boasting (in our opinion) three &#39;good size&#39; bedrooms, a recently re-furbished shower/wet room, modern style fitted kitchen and versatile lounge or lounge/dining room, this property is ideally located for access to the main bus routes, Fratton train station and the local schools. Priced to attract either an investor or a buyer looking to put their own personal touch to their home, we thoroughly recommend an early viewing to avoid disappointment. </para>
+			</short_description>
+			<garden>
+				<para>Side access with storage and lean to, mainly laid to a patio area, surrounded by brick wall, decorative raised borders, water feature.</para>
+				<size></size>
+			</garden>
+			<freehold>F</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>HOUSE</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=98331</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=98331</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="29/05/2019 13:05" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/118281_T_ADDRESSES_111845_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="29/05/2019 13:05" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/118281_T_ADDRESSES_111845_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="29/05/2019 13:09" description="Lounge Area" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/118284_T_ADDRESSES_111845_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="29/05/2019 13:10" description="Kitchen" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/118285_T_ADDRESSES_111845_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="29/05/2019 13:15" description="Bedroom 1" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/118286_T_ADDRESSES_111845_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="29/05/2019 13:16" description="Bedroom 2" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/118287_T_ADDRESSES_111845_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="29/05/2019 13:17" description="Garden" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/118288_T_ADDRESSES_111845_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="29/05/2019 15:41" description="Bathroom" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/118293_T_ADDRESSES_111845_OT.jpg</picture8>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=63&amp;potentialenergy=82&amp;currentenvironment=59&amp;potentialenvironment=82&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="61579" prevref="" last_updated="08/01/2020 15:29:26" created_date="08/11/2019 16:26">
+		<id>61579</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>11 Connaught Road</address1>
+			<address2>North End</address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO2 9BP</postcode>
+			<property_location>PO2</property_location>
+			<display_address>Connaught Road, North End, PO2</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>175750</price>
+			<price_text>Asking Price &#163;175,750 (Freehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>16/12/2019</price_reduced_date>
+			<pre_reduction_price>179995</pre_reduction_price>
+			<beds>3</beds>
+			<baths>1</baths>
+			<receptions>2</receptions>
+			<status>SSTC</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this three bedroom family home in the popular area of North End, Portsmouth. Boasting two reception rooms, kitchen and good sized utility room downstairs with 3 bedrooms and a good sized family bathroom upstairs. This property is presented to the market as an ideal investment with tenants-in-situ and a gross yield of currently 5.8&#37; but potential to increase. We highly recommend an early viewing to avoid disappointment.</para>
+			</long_description>
+			<short_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this three bedroom family home in the popular area of North End, Portsmouth. Boasting two reception rooms, kitchen and good sized utility room downstairs with 3 bedrooms and a good sized family bathroom upstairs. This property is presented to the market as an ideal investment with tenants-in-situ and a gross yield of currently 5.8&#37; but potential to increase. We highly recommend an early viewing to avoid disappointment.</para>
+			</short_description>
+			<garden>
+				<para>Surrounded by brick walls mainly laid to lawn with patio area, out house, mature borders.</para>
+				<size></size>
+			</garden>
+			<freehold>F</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code></prst_code>
+			<prty_code>HOUSE</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=61579</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=61579</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="08/11/2019 13:43" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/120442_T_ADDRESSES_69781_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="08/11/2019 13:43" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/120442_T_ADDRESSES_69781_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="08/11/2019 13:44" description="Lounge" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/120445_T_ADDRESSES_69781_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="08/11/2019 13:44" description="Dining Room" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/120446_T_ADDRESSES_69781_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="08/11/2019 13:47" description="Bedroom 1" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/120447_T_ADDRESSES_69781_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="08/11/2019 13:49" description="Bathroom" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/120448_T_ADDRESSES_69781_OT.jpg</picture6>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=60&amp;potentialenergy=85&amp;currentenvironment=56&amp;potentialenvironment=84&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="98120" prevref="" last_updated="18/12/2019 11:13:21" created_date="31/05/2019 14:32">
+		<id>98120</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>2 Barnes Road</address1>
+			<address2></address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO1 5JG</postcode>
+			<property_location>PO1</property_location>
+			<display_address>Barnes Road Fratton PO1</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>179995</price>
+			<price_text>Asking Price &#163;179,995 (Freehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date></price_reduced_date>
+			<pre_reduction_price></pre_reduction_price>
+			<beds>3</beds>
+			<baths>1</baths>
+			<receptions>2</receptions>
+			<status>SSTC</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present for sale, this refurbishment opportunity in the popular area of Barnes Road, Fratton. Internally the property requires redecoration and some modernisation. The property consists of two reception rooms, kitchen with beech effect units &#38; roll-top work surfaces, downstairs bathroom with white suite, small low maintenance rear garden, and upstairs there are three double bedrooms. We highly recommend early viewings to avoid any disappointment.  </para>
+			</long_description>
+			<short_description>
+				<para>Ashbourne Estate Agents are delighted to present for sale, this unique investment opportunity in the popular area, Barnes Road, Fratton. Internally the property consists of two reception rooms, kitchen with beech effect units &#38; roll-top work surfaces, downstairs bathroom with white suite, small low maintenance rear garden, and upstairs there are three double bedrooms. We highly recommend early viewings to avoid any disappointment. </para>
+			</short_description>
+			<garden>
+				<para>Side access with storage, outside tap, mainly laid to patio area surrounded by brick wall. </para>
+				<size></size>
+			</garden>
+			<freehold></freehold>
+			<remaining_lease></remaining_lease>
+			<available_from>03/06/2019</available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>HOUSE</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=98120</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=98120</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="31/05/2019 13:29" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/118306_T_ADDRESSES_111707_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="31/05/2019 13:29" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/118306_T_ADDRESSES_111707_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="31/05/2019 13:31" description="Lounge Area" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/118309_T_ADDRESSES_111707_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="31/05/2019 13:31" description="Kitchen" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/118310_T_ADDRESSES_111707_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="31/05/2019 13:33" description="Bedroom 1" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/118311_T_ADDRESSES_111707_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="31/05/2019 13:34" description="Bedroom 2" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/118312_T_ADDRESSES_111707_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="31/05/2019 13:35" description="Garden" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/118313_T_ADDRESSES_111707_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="31/05/2019 13:35" description="Side Storage" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/118314_T_ADDRESSES_111707_OT.jpg</picture8>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=57&amp;potentialenergy=72&amp;currentenvironment=50&amp;potentialenvironment=67&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="100132" prevref="" last_updated="05/12/2019 11:59:24" created_date="23/09/2019 15:08">
+		<id>100132</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>12 Lion House</address1>
+			<address2>Lion Terrace</address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO1 3AB</postcode>
+			<property_location>PO1</property_location>
+			<display_address>Lion House, PO1</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>187500</price>
+			<price_text>Asking Price &#163;187,500 (Leasehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>05/12/2019</price_reduced_date>
+			<pre_reduction_price>194995</pre_reduction_price>
+			<beds>2</beds>
+			<baths>1</baths>
+			<receptions>1</receptions>
+			<status>AVAI</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale  to this second floor modern two bedroom apartment in the sought after area of Lion Terrace, Old Portsmouth situated next to the Business School. Consisting of two bedrooms, kitchen with appliances, open plan living area and bathroom with shower over bath. This property is unfurnished but does have kitchen appliances. Currently Tenanted with an attractive Gross Yield, we highly recommend an early viewing to avoid disappointment.</para>
+			</long_description>
+			<short_description>
+				<para> Ashbourne Estate Agents are delighted to present For Sale to this second floor modern two bedroom apartment in the sought after area of Lion Terrace, Old Portsmouth situated next to the Business School. Consisting of two bedrooms, kitchen with appliances, open plan living area and bathroom with shower over bath. This property is unfurnished but does have kitchen appliances. Currently Tenanted with an attractive Gross Yield, we highly recommend an early viewing to avoid disappointment. </para>
+			</short_description>
+			<garden></garden>
+			<freehold>L</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>FLT</prty_code>
+			<prpa_code>ALLO</prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=100132</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=100132</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="21/09/2019 14:27" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/120021_T_ADDRESSES_113698_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="21/09/2019 14:27" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/120021_T_ADDRESSES_113698_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="21/09/2019 14:28" description="Lounge" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/120024_T_ADDRESSES_113698_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="21/09/2019 14:29" description="Kitchen" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/120025_T_ADDRESSES_113698_OT.jpg</picture4>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=86&amp;potentialenergy=88&amp;currentenvironment=86&amp;potentialenvironment=87&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="100347" prevref="" last_updated="21/11/2019 11:46:10" created_date="29/10/2019 09:06">
+		<id>100347</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>15 Sywell Crescent</address1>
+			<address2>Anchorage Park</address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO3 5UJ</postcode>
+			<property_location>PO3</property_location>
+			<display_address>Sywell Crescent, Anchorage Park, PO3</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>219995</price>
+			<price_text>Asking Price &#163;219,995 (Freehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>21/11/2019</price_reduced_date>
+			<pre_reduction_price>229995</pre_reduction_price>
+			<beds>2</beds>
+			<baths>1</baths>
+			<receptions>2</receptions>
+			<status>AVAI</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this wonderful opportunity for a First Time Buyer or someone looking to create their ideal home in the very sought after area of Sywell Crescent, Anchorage Park. Boasting two bedrooms and upstairs bathroom, generously sized lounge with a kitchen/diner to the rear and conservatory, this home also benefits from a detached garage with a pitched, tiled roof, ideal for additional storage and it&#39;s own parking space. Well located for access to the major vehicle routes, we thoroughly recommend an early viewing to avoid disappointment.</para>
+			</long_description>
+			<short_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this wonderful opportunity for a First Time Buyer or someone looking to create their ideal home in the very sought after area of Sywell Crescent, Anchorage Park. Boasting two bedrooms and upstairs bathroom, generously sized lounge with a kitchen/diner to the rear and conservatory, this home also benefits from a detached garage with a pitched, tiled roof, ideal for additional storage and it&#39;s own parking space. Well located for access to the major vehicle routes, we thoroughly recommend an early viewing to avoid disappointment.</para>
+			</short_description>
+			<garden>
+				<para>Surrounded by brick walls and timber panel fencing, pedestrian access provided by gate to the rear, mature garden with hardstand.</para>
+				<size></size>
+			</garden>
+			<freehold>F</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>HOUSE</prty_code>
+			<prpa_code>GARA</prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=100347</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=100347</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="25/10/2019 15:46" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/120262_T_ADDRESSES_113918_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="25/10/2019 15:46" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/120262_T_ADDRESSES_113918_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="25/10/2019 15:47" description="Lounge" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/120265_T_ADDRESSES_113918_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="25/10/2019 15:48" description="Kitchen" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/120266_T_ADDRESSES_113918_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="25/10/2019 15:49" description="Dining Area" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/120267_T_ADDRESSES_113918_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="25/10/2019 15:50" description="Bedroom" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/120268_T_ADDRESSES_113918_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="25/10/2019 15:51" description="Garden" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/120269_T_ADDRESSES_113918_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="25/10/2019 15:52" description="Garage" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/120270_T_ADDRESSES_113918_OT.jpg</picture8>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="100093" prevref="" last_updated="06/12/2019 10:43:06" created_date="26/09/2019 15:53">
+		<id>100093</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>84 Beresford Road</address1>
+			<address2></address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO2 0NQ</postcode>
+			<property_location>PO2</property_location>
+			<display_address>Beresford Road, Portsmouth PO2</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>224995</price>
+			<price_text>Asking Price &#163;224,995 (Freehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>06/12/2019</price_reduced_date>
+			<pre_reduction_price>234995</pre_reduction_price>
+			<beds>3</beds>
+			<baths>1</baths>
+			<receptions>2</receptions>
+			<status>AVAI</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this 3 bedroom family home in the highly popular area of Beresford Road, North End. Boasting three good sized / double bedrooms and bathroom upstairs with two large reception rooms, kitchen, utility area with downstairs w/c and conservatory to the ground floor. This property requires some updating but already benefits from double glazing, a modern combi boiler and gas central heating. Ideally located for access to local amenities, schools, major bus routes and the M275. Priced keenly to reflect the modernisation required, we highly recommend an early viewing to avoid disappointment. </para>
+			</long_description>
+			<short_description>
+				<para>  Ashbourne Estate Agents are delighted to present For Sale this 3 bedroom family home in the highly popular area of Beresford Road, North End. Boasting three good sized / double bedrooms and bathroom upstairs with two large reception rooms, kitchen, utility area with downstairs w/c and conservatory to the ground floor. This property requires some updating but already benefits from double glazing, a modern combi boiler and gas central heating. Ideally located for access to local amenities, schools, major bus routes and the M275. Priced keenly to reflect the modernisation required, we highly recommend an early viewing to avoid disappointment.  </para>
+			</short_description>
+			<garden>
+				<para>Mature trees and shrubs, surrounded by brick walls.</para>
+				<size></size>
+			</garden>
+			<freehold>F</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>HOUSE</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=100093</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=100093</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="26/09/2019 15:19" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/120091_T_ADDRESSES_113657_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="26/09/2019 15:19" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/120091_T_ADDRESSES_113657_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="26/09/2019 15:20" description="Bedroom 1" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/120094_T_ADDRESSES_113657_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="26/09/2019 15:21" description="Utility Room" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/120095_T_ADDRESSES_113657_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="26/09/2019 15:22" description="Bedroom 2" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/120096_T_ADDRESSES_113657_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="26/09/2019 15:23" description="Bedroom 3" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/120097_T_ADDRESSES_113657_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="26/09/2019 15:25" description="Kitchen" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/120098_T_ADDRESSES_113657_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="26/09/2019 15:26" description="Reception2" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/120099_T_ADDRESSES_113657_OT.jpg</picture8>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="99317" prevref="" last_updated="26/09/2019 12:12:17" created_date="10/07/2019 15:45">
+		<id>99317</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>9 Chichester Close</address1>
+			<address2></address2>
+			<address3></address3>
+			<town>Gosport</town>
+			<county></county>
+			<postcode>PO13 0QH</postcode>
+			<property_location>PO13</property_location>
+			<display_address>Chichester Close, Peel Common, PO13</display_address>
+			<location_town>Fareham</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>239995</price>
+			<price_text>Asking Price &#163;239,995 (Freehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>26/09/2019</price_reduced_date>
+			<pre_reduction_price>249995</pre_reduction_price>
+			<beds>3</beds>
+			<baths>1</baths>
+			<receptions>1</receptions>
+			<status>AVAI</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are pleased to offer this spacious and well presented family home in Peel Common. The property has been decorated tastefully throughout and includes modern style kitchen and bathroom. The ground floor comprises of lounge with feature fireplace, dining area and double doors leading to a generously sized conservatory. The conservatory then has access out to the rear enclosed garden and personal door to the single garage. The kitchen is situated to the front of the property and includes gas hob with electric oven, fridge freezer, washing machine and dishwasher. There is also a lobby area at the entrance to the house. Upstairs there are two double bedrooms and a good sized third bedroom. Also located upstairs is the bathroom which includes shower over the bath and is tiled throughout. The property has an allocated parking space, a garage, is double glazed throughout with gas central heating and is situated in a quiet residential location. We recommend an early viewing of this property to avoid disappointment&#33; Call Ashbourne Estate Agents on 02392 658044. </para>
+			</long_description>
+			<short_description>
+				<para> Ashbourne Estate Agents are pleased to offer this spacious and well presented family home in Peel Common. The property has been decorated tastefully throughout and includes modern style kitchen and bathroom. The ground floor comprises of lounge with feature fireplace, dining area and double doors leading to a generously sized conservatory. The conservatory then has access out to the rear enclosed garden and personal door to the single garage. The kitchen is situated to the front of the property and includes gas hob with electric oven, fridge freezer, washing machine and dishwasher. There is also a lobby area at the entrance to the house. Upstairs there are two double bedrooms and a good sized third bedroom. Also located upstairs is the bathroom which includes shower over the bath and is tiled throughout. The property has an allocated parking space, a garage, is double glazed throughout with gas central heating and is situated in a quiet residential location. We recommend an early viewing of this property to avoid disappointment&#33; Call Ashbourne Estate Agents on 02392 658044.  </para>
+			</short_description>
+			<garden>
+				<para>mainly laid to lawn with mature borders, surrounded by timber panel fencing, gated rear pedestrian access and pedestrian access to the side of the property, access to the garage.</para>
+				<size></size>
+			</garden>
+			<freehold>F</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from>10/07/2019</available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>HOUSE</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=99317</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=99317</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="06/08/2019 16:15" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/118937_T_ADDRESSES_112850_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="06/08/2019 16:15" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/118937_T_ADDRESSES_112850_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="06/08/2019 16:16" description="Lounge" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/118941_T_ADDRESSES_112850_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="06/08/2019 16:17" description="Lounge 2" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/118943_T_ADDRESSES_112850_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="06/08/2019 16:18" description="Kitchen" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/118945_T_ADDRESSES_112850_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="06/08/2019 16:18" description="Kitchen" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/118947_T_ADDRESSES_112850_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="06/08/2019 16:19" description="View" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/118948_T_ADDRESSES_112850_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="10/07/2019 13:46" description="Bathroom" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/118615_T_ADDRESSES_112850_OT.jpg</picture8>
+			<picture9 type="image" section="main" updated_date="06/08/2019 16:20" description="Bathroom" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/118950_T_ADDRESSES_112850_OT.jpg</picture9>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=67&amp;potentialenergy=85&amp;currentenvironment=66&amp;potentialenvironment=86&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="100340" prevref="" last_updated="14/01/2020 15:43:45" created_date="05/12/2019 16:07">
+		<id>100340</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>20 St Augustine Road</address1>
+			<address2>Southsea</address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO4 9AD</postcode>
+			<property_location>PO4</property_location>
+			<display_address>St Augustine Road, PO4</display_address>
+			<location_town>Southsea</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>249995</price>
+			<price_text>Asking Price &#163;249,995 (Freehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>14/01/2020</price_reduced_date>
+			<pre_reduction_price>259995</pre_reduction_price>
+			<beds>3</beds>
+			<baths>1</baths>
+			<receptions>2</receptions>
+			<status>AVAI</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this well presented home in the highly desirable and sought after area of St Augustine Road, Southsea. Boasting either four double bedrooms with one reception or three double bedrooms with two good sized reception rooms, this versatile property would suit either a family or an ideal investment opportunity. Available with vacant possession, we thoroughly recommend an early viewing to avoid disappointment.</para>
+			</long_description>
+			<short_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this well presented home in the highly desirable and sought after area of St Augustine Road, Southsea. Boasting either four double bedrooms with one reception or three double bedrooms with two good sized reception rooms, this versatile property would suit either a family or an ideal investment opportunity. Available with vacant possession, we thoroughly recommend an early viewing to avoid disappointment.</para>
+			</short_description>
+			<garden>
+				<para>Surrounded by timber panel fencing and brick walls, mainly laid to shingle and paving, out side tap.</para>
+				<size></size>
+			</garden>
+			<freehold>F</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code>NEW</prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>HOUSE</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=100340</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=100340</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="05/12/2019 15:59" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/120840_T_ADDRESSES_113910_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="05/12/2019 15:59" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/120840_T_ADDRESSES_113910_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="05/12/2019 15:59" description="Lounge" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/120843_T_ADDRESSES_113910_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="05/12/2019 16:02" description="Bedroom 2" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/120844_T_ADDRESSES_113910_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="05/12/2019 16:03" description="Kitchen" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/120845_T_ADDRESSES_113910_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="05/12/2019 16:04" description="Bedroom/Reception 2" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/120846_T_ADDRESSES_113910_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="05/12/2019 16:05" description="Bathroom" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/120847_T_ADDRESSES_113910_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="05/12/2019 16:06" description="Bedroom 1" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/120848_T_ADDRESSES_113910_OT.jpg</picture8>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=67&amp;potentialenergy=73&amp;currentenvironment=65&amp;potentialenvironment=72&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="99657" prevref="" last_updated="06/12/2019 09:32:35" created_date="22/08/2019 16:10">
+		<id>99657</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>120 Tangier Road</address1>
+			<address2></address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO3 6PG</postcode>
+			<property_location>PO3</property_location>
+			<display_address>Tangier Road, Baffins, PO3</display_address>
+			<location_town>Portsmouth</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>284999</price>
+			<price_text>Offers Over &#163;284,999 (Freehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>06/12/2019</price_reduced_date>
+			<pre_reduction_price>285000</pre_reduction_price>
+			<beds>3</beds>
+			<baths>1</baths>
+			<receptions>3</receptions>
+			<status>AVAI</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this beautifully presented family home in the highly sought after and popular area of Baffins Pond. Boasting a ground floor which consists of a bright airy hallway and lounge, dining room and modern extended kitchen with a great size conservatory to the rear, it also benefits from a downstairs shower/wet room with w/c. The first floor landing is beautifully spacious and lends itself to the possibility of extending upward to add a fourth bedroom with en-suite and balcony, as several neighbouring properties have already. Stepping into the garden from the conservatory you are greeted with a peaceful &#39;haven&#39;, the patio area winds through the lengthy garden with a lawned area, mature floral borders and a decorative archway, with an older style garage to the very rear of the garden utilised by pedestrian and vehicular access. We thoroughly recommend an early viewing to avoid disappointment and fully appreciate this rare opportunity to obtain a family home in this sought after area.</para>
+			</long_description>
+			<short_description>
+				<para> Ashbourne Estate Agents are delighted to present For Sale this beautifully presented family home in the highly sought after and popular area of Baffins Pond. Boasting a ground floor which consists of a bright airy hallway and lounge, dining room and modern extended kitchen with a great size conservatory to the rear, it also benefits from a downstairs shower/wet room with w/c. The first floor landing is beautifully spacious and lends itself to the possibility of extending upward to add a fourth bedroom with en-suite and balcony, as several neighbouring properties have already. Stepping into the garden from the conservatory you are greeted with a peaceful &#39;haven&#39;, the patio area winds through the lengthy garden with a lawned area, mature floral borders and a decorative archway, with an older style garage to the very rear of the garden utilised by pedestrian and vehicular access. We thoroughly recommend an early viewing to avoid disappointment and fully appreciate this rare opportunity to obtain a family home in this sought after area. </para>
+			</short_description>
+			<garden>
+				<para>Mainly laid to patio with lawned areas, surrounded by mature raised floral borders, brick walls and timber panel fencing, garage to the rear with rear pedestrian and vehicular access. Fields and wooded area to the rear of the garden.</para>
+				<size></size>
+			</garden>
+			<freehold>F</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>HOUSE</prty_code>
+			<prpa_code></prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=99657</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=99657</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="20/08/2019 15:34" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/119322_T_ADDRESSES_113195_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="20/08/2019 15:34" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/119322_T_ADDRESSES_113195_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="20/08/2019 15:35" description="Lounge" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/119325_T_ADDRESSES_113195_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="20/08/2019 15:35" description="Kitchen" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/119326_T_ADDRESSES_113195_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="20/08/2019 15:37" description="Dining Room" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/119327_T_ADDRESSES_113195_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="20/08/2019 15:43" description="Garden" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/119328_T_ADDRESSES_113195_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="20/08/2019 15:45" description="Bedroom 1" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/119329_T_ADDRESSES_113195_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="20/08/2019 15:45" description="Bedroom 2" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/119330_T_ADDRESSES_113195_OT.jpg</picture8>
+			<picture9 type="image" section="main" updated_date="20/08/2019 15:45" description="Bedroom 3" pictype="Other" >https://salesandlettings.online/ttdirect/images/119331_T_ADDRESSES_113195_OT.jpg</picture9>
+			<picture10 type="image" section="main" updated_date="20/08/2019 15:46" description="Conservatory" pictype="Other" >https://salesandlettings.online/ttdirect/images/119332_T_ADDRESSES_113195_OT.jpg</picture10>
+			<picture11 type="image" section="main" updated_date="20/08/2019 15:47" description="Bathroom" pictype="Other" >https://salesandlettings.online/ttdirect/images/119333_T_ADDRESSES_113195_OT.jpg</picture11>
+			<picture12 type="image" section="main" updated_date="20/08/2019 15:48" description="Garden (2)" pictype="Other" >https://salesandlettings.online/ttdirect/images/119334_T_ADDRESSES_113195_OT.jpg</picture12>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=57&amp;potentialenergy=79&amp;currentenvironment=53&amp;potentialenvironment=78&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+	<property id="98766" prevref="" last_updated="04/11/2019 11:34:39" created_date="10/06/2019 12:25">
+		<id>98766</id>
+		<department>RS</department>
+		<branch>PORT.S</branch>
+		<address>
+			<address1>116 Albert Road</address1>
+			<address2></address2>
+			<address3></address3>
+			<town>Portsmouth</town>
+			<county></county>
+			<postcode>PO4 0JS</postcode>
+			<property_location>PO4</property_location>
+			<display_address>Albert Road, Southsea PO4</display_address>
+			<location_town>Southsea</location_town>
+			<location_county>HAMPSHIRE</location_county>
+		</address>
+		<property_summary>
+			<price>380000</price>
+			<price_text>Asking Price &#163;380,000 (Freehold)</price_text>
+			<price_monthly></price_monthly>
+			<price_reduced_date>20/08/2019</price_reduced_date>
+			<pre_reduction_price>400000</pre_reduction_price>
+			<beds>0</beds>
+			<baths>0</baths>
+			<receptions>0</receptions>
+			<status>SSTC</status>
+			<long_description>
+				<para>Ashbourne Estate Agents are delighted to present For Sale this fantastic investment opportunity located in the highly desirable Albert Road, Southsea. Comprising of a retail unit (currently a Piano shop) with workshop, staff room and storage behind, a separate one bedroom first floor apartment above with modern style fitted kitchen and bathroom and courtyard to the rear. Behind these properties lie an additional two storey unit which is accessed from a rear driveway, the ground floor is currently a sound studio and the first floor is being used as a workshop. Across the driveway but included within the property lies a factory/workshop unit (currently set up as a Joinery) which also boasts its own courtyard an private vehicular access. With huge rental potential across several business and residential units but also the potential to convert certain sections to further residential units, we highly recommend an early internal inspection to avoid disappointment.</para>
+			</long_description>
+			<short_description>
+				<para> Ashbourne Estate Agents are delighted to present For Sale this fantastic investment opportunity located in the highly desirable Albert Road, Southsea. Comprising of a retail unit (currently a Piano shop) with workshop, staff room and storage behind, a separate one bedroom first floor apartment above with modern style fitted kitchen and bathroom and courtyard to the rear. Behind these properties lie an additional two storey unit which is accessed from a rear driveway, the ground floor is currently a sound studio and the first floor is being used as a workshop. Across the driveway but included within the property lies a factory/workshop unit (currently set up as a Joinery) which also boasts its own courtyard an private vehicular access. With huge rental potential across several business and residential units but also the potential to convert certain sections to further residential units, we highly recommend an early internal inspection to avoid disappointment. </para>
+			</short_description>
+			<garden>
+				<para>Courtyard garden located behind the shop and flat, accessed to the rear.</para>
+				<size></size>
+			</garden>
+			<freehold>F</freehold>
+			<remaining_lease></remaining_lease>
+			<available_from></available_from>
+			<furnished></furnished>
+			<custom_element>
+			</custom_element>
+		</property_summary>
+		<extra_info>
+			<drive></drive>
+			<garage></garage>
+			<prag_code></prag_code>
+			<prse_code></prse_code>
+			<prst_code>LINK</prst_code>
+			<prty_code>COMM</prty_code>
+			<prpa_code>OFF</prpa_code>
+			<property_status>Pre Owned</property_status>
+		</extra_info>
+		<links>
+			<public_details_sheet>https://salesandlettings.online/pls/ttdirect/rv?id=98766</public_details_sheet>
+			<slide_show>https://salesandlettings.online/pls/ttdirect/slide_show?pcontid=98766</slide_show>
+			<virtual_tour></virtual_tour>
+			<brochure updated_date=""></brochure>
+			<floorplan_url></floorplan_url>
+		</links>
+<!-- ,, -->
+		<images>
+			<picture1 type="thumbnail" section="main" updated_date="10/06/2019 11:57" description="Front Shot (Thumbnail)" pictype="Thumbnail for Property Search screen" >https://salesandlettings.online/ttdirect/images/118356_T_ADDRESSES_112296_TN.jpg</picture1>
+			<picture2 type="image" section="main" updated_date="10/06/2019 11:57" description="Front Shot (Main)" pictype="Main front picture for Property details sheet" >https://salesandlettings.online/ttdirect/images/118356_T_ADDRESSES_112296_DS.jpg</picture2>
+			<picture3 type="image" section="main" updated_date="10/06/2019 11:58" description="Shop Showroom" pictype="Extra Image 1" >https://salesandlettings.online/ttdirect/images/118359_T_ADDRESSES_112296_OT.jpg</picture3>
+			<picture4 type="image" section="main" updated_date="10/06/2019 12:01" description="Flat" pictype="Extra Image 2" >https://salesandlettings.online/ttdirect/images/118360_T_ADDRESSES_112296_OT.jpg</picture4>
+			<picture5 type="image" section="main" updated_date="10/06/2019 12:02" description="Rear Unit, Sound room/Workshop" pictype="Extra Image 3" >https://salesandlettings.online/ttdirect/images/118361_T_ADDRESSES_112296_OT.jpg</picture5>
+			<picture6 type="image" section="main" updated_date="10/06/2019 12:07" description="Joinery 1" pictype="Extra Image 4" >https://salesandlettings.online/ttdirect/images/118362_T_ADDRESSES_112296_OT.jpg</picture6>
+			<picture7 type="image" section="main" updated_date="10/06/2019 12:07" description="Joinery 2" pictype="Extra Image 5" >https://salesandlettings.online/ttdirect/images/118363_T_ADDRESSES_112296_OT.jpg</picture7>
+			<picture8 type="image" section="main" updated_date="10/06/2019 12:16" description="Courtyard" pictype="Extra Image 6" >https://salesandlettings.online/ttdirect/images/118364_T_ADDRESSES_112296_OT.jpg</picture8>
+			<epc1>https://epc.rightmove.co.uk/generateEpc?filetype=jpg&amp;graphtype=EPC&amp;currentenergy=53&amp;potentialenergy=55&amp;currentenvironment=46&amp;potentialenvironment=48&amp;graphquality=web</epc1>
+		</images>
+		<hips>
+		</hips>
+		<longitude></longitude>
+		<latitude></latitude>
+		<new_home_development nhd_id="">
+			<title></title>
+			<description></description>
+			<image></image>
+			<logo propid=""></logo>
+			<design_price_from>-1</design_price_from>
+			<design_price_to>-1</design_price_to>
+			<associated_properties>
+			</associated_properties>
+			<associated_designs>
+			</associated_designs>
+		</new_home_development>
+
+		<lifestyles>
+		</lifestyles>
+	</property>
+</houses>
+<records>15</records>
+<parameters>
+	<de>RS</de>
+	<be>0</be>
+	<pf>0</pf>
+	<pt>999999999</pt>
+	<rf>MONTH</rf>
+	<re>0</re>
+	<ba>0</ba>
+	<cl>N</cl>
+	<qc>2</qc>
+	<pp>15</pp>
+	<pg>1</pg>
+	<od>AP</od>
+	<htm>N</htm>
+</parameters>
+</aspasia_data>
