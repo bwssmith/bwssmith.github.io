@@ -2,19 +2,22 @@
   <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script>
-      var Houses;
+      getTxt = function (){
         $.ajax({
           url:'aspasia_search.xml',
           success: function (data){
-            Houses   =  data.getElementsByTagName("property");
-            alert("There are "+Houses.length+" houses");
+            var Houses   =  data.getElementsByTagName("property");
+            alert("There are "+Houses.length+" houses at point A");
+            return data;
           }
         });
-        alert("h");
-        alert("There are "+Houses.length+" houses");
+      }
+      var data = getTxt();
+      var Houses   =  data.getElementsByTagName("property");
+      alert("There are "+Houses.length+" houses at point B");
     </script>
   </head>
   <body>
-    <button type="button" id="btnGetTxt" onclick="getTxt()">Get da Text</button>
+    <button type="button" id="btnGetTxt" onclick="getTxt()">Get Text</button>
   </body>
 </html>
