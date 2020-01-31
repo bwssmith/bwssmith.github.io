@@ -3,7 +3,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script>
       function getData(){
-        $.ajax({
+        return $.ajax({
           url:'aspasia_search.xml',
           success: function (data){
             var Houses   =  data.getElementsByTagName("property");
