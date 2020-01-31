@@ -2,7 +2,7 @@
   <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script>
-      getTxt = function (){
+      var data = function (){
         $.ajax({
           url:'aspasia_search.xml',
           success: function (data){
@@ -12,9 +12,7 @@
           }
         });
       }
-      alert("reached point B");
-      var data = getTxt();
-      alert("reached point C: "+data);
+      alert("reached point B* "+data);
       var Houses   =  data.getElementsByTagName("property");
       alert("There are "+Houses.length+" houses at point B");
     </script>
