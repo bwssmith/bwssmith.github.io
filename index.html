@@ -1,18 +1,18 @@
-<html><head>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script>
-    getTxt = function (){
-    
-      $.ajax({
-        url:'aspasia_search.xml',
-        success: function (data){
-          alert(data);
-          var Houses   =  data.getElementsByTagName("property");
-          alert("There are "+Houses.length+" houses");
-        }
-      });
-    }
+      var Houses;
+        $.ajax({
+          url:'aspasia_search.xml',
+          success: function (data){
+            Houses   =  data.getElementsByTagName("property");
+          }
+        });
+        alert("There are "+Houses.length+" houses");
     </script>
-    </head><body>
-      <button type="button" id="btnGetTxt" onclick="getTxt()">Get Text</button>
-    </body></html>
+  </head>
+  <body>
+    <button type="button" id="btnGetTxt" onclick="getTxt()">Get Text</button>
+  </body>
+</html>
