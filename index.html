@@ -213,6 +213,8 @@
 
     <script>
       var increment = 0;
+      alert(houses);
+      alert(window.houses);
       alert(houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].nodeValue);
       window.setInterval(function(){
         increment = (increment+1)%houses.length;
