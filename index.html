@@ -20,7 +20,7 @@
   </script>
   </head>
   <body>
-    <button type="button" id="btnGetTxt" onclick="getTxt()">Get Text</button>
+    <button type="button" id="btnGetTxt" onclick="getTxt()">Get le Text</button>
 
 
 
@@ -213,7 +213,7 @@
 
     <script>
       var increment = 0;
-      alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].nodeValue);
+      alert(houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].nodeValue);
       window.setInterval(function(){
         increment = (increment+1)%houses.length;
         alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].nodeValue);
