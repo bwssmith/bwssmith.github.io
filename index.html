@@ -12,6 +12,7 @@
       }
 
       function handleXml(data) {
+        alert(data);
         houses = data.getElementsByTagName("property");
         alert(houses);
         replacePics();
@@ -19,7 +20,7 @@
   </script>
   </head>
   <body>
-    <button type="button" id="btnGetTxt" onclick="getTxt()">Get le Text</button>
+    <button type="button" id="btnGetTxt" onclick="getTxt()">Get Text</button>
 
 
 
