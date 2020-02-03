@@ -20,7 +20,7 @@
   </script>
   </head>
   <body>
-    <button type="button" id="btnGetTxt" onclick="getTxt()">Get el Text</button>
+    <button type="button" id="btnGetTxt" onclick="getTxt()">Get le Text</button>
 
 
 
@@ -216,10 +216,10 @@
       function replacePics() {
         var increment = 0;
         alert("There are "+houses.length+ " houses");
-        alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].nodeValue);
+        alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].textContent);
         window.setInterval(function(){
           increment = (increment+1)%houses.length;
-          alert(window.houses[increment].getElementsByTagName("postcode")[0].textContent);
+          alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].textContent);
         }, 5000);
       }
     </script>
