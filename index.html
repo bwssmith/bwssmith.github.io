@@ -37,7 +37,7 @@
           updatePictures(increment);
         }, 5000);
       }
-      function updatePictures(data) {
+      function updatePictures(increment) {
         $("#pic1").attr("src",window.houses[increment].getElementsByTagName("images").getChildNodes[0].textContent);
         //$("#pic1").attr("src","success.png");
         $("#pic2").attr("src","success.png");
