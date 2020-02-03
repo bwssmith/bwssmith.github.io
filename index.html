@@ -19,7 +19,7 @@
   </head>
   <body>
     <div class = "container my-4">
-      <p class="font-weight-bold">Even more dynamic images</p>
+      <p class="font-weight-bold">Not quite so dynamic images</p>
       <img id="pic1" src="error image.png" alt = "image 1">
       <img id = "pic2" src ="error image.png" alt = "image 2">
       <img id = "pic3" src = "error image.png" alt = "image 3">
@@ -34,11 +34,11 @@
         window.setInterval(function(){
           increment = (increment+1)%houses.length;
           //alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].textContent);
-          updatePictures(window.houses[increment]);
+          updatePictures(increment);
         }, 5000);
       }
       function updatePictures(data) {
-        $("#pic1").attr("src",data.getElementsByTagName("images").getChildNodes[0].textContent);
+        $("#pic1").attr("src",window.houses[increment].getElementsByTagName("images").getChildNodes[0].textContent);
         //$("#pic1").attr("src","success.png");
         $("#pic2").attr("src","success.png");
         $("#pic3").attr("src","success.png");
