@@ -19,7 +19,7 @@
   </head>
   <body>
     <div class = "container my-4">
-      <p class="font-weight-bold">He'll yeah dynamic images</p>
+      <p class="font-weight-bold">Hell yeah dynamic images</p>
       <img id="pic1" src="error image.png" alt = "image 1">
       <img id = "pic2" src ="error image.png" alt = "image 2">
       <img id = "pic3" src = "error image.png" alt = "image 3">
@@ -38,9 +38,9 @@
         }, 5000);
       }
       function updatePictures(increment) {
-        $("#pic1").attr("src",window.houses[increment].getElementsByTagName("picture1")[0].textContent);
-        $("#pic2").attr("src",window.houses[increment].getElementsByTagName("picture2")[0].textContent);
-        $("#pic3").attr("src",window.houses[increment].getElementsByTagName("picture3")[0].textContent);
+        $("#pic1").attr("src",window.houses[increment].getElementsByTagName("picture2")[0].textContent);
+        $("#pic2").attr("src",window.houses[increment].getElementsByTagName("picture3")[0].textContent);
+        $("#pic3").attr("src",window.houses[increment].getElementsByTagName("picture4")[0].textContent);
         $("#postcode").text("POSTCODE: "+window.houses[increment].getElementsByTagName("postcode")[0].textContent);
       }
     </script>
