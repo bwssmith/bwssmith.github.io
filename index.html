@@ -19,7 +19,7 @@
   </head>
   <body>
     <div class = "container my-4">
-      <p class="font-weight-bold">This is my new shit</p>
+      <p class="font-weight-bold">Dynamic images</p>
       <img id="pic1" src="error image.png" alt = "image 1">
       <img id = "pic2" src ="error image.png" alt = "image 2">
       <img id = "pic3" src = "error image.png" alt = "image 3">
@@ -30,10 +30,10 @@
       getTxt();
       function replacePics() {
         var increment = 0;
-        alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].textContent);
+        //alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].textContent);
         window.setInterval(function(){
           increment = (increment+1)%houses.length;
-          alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].textContent);
+          //alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].textContent);
           updatePictures(window.houses[increment]);
         }, 5000);
       }
