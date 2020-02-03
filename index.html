@@ -34,7 +34,13 @@
         window.setInterval(function(){
           increment = (increment+1)%houses.length;
           alert(window.houses[increment].getElementsByTagName("address")[0].getElementsByTagName("postcode")[0].textContent);
+          updatePictures(window.houses[increment]);
         }, 5000);
+      }
+      function updatePictures(data) {
+        $("pic1").attr("src",data.getElementsByTagName("images").getChildNodes[0].textContent);
+        $("pic2").attr("src","success.png");
+        $("pic3").attr("src","success.png");
       }
     </script>
   </body>
