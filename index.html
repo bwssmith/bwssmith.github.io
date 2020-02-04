@@ -18,12 +18,23 @@
   </script>
   </head>
   <body>
-    <div class = "container my-4">
+    <div class = "container-fluid">
       <p class="font-weight-bold">Hell yeah dynamic images</p>
-      <img id="pic1" src="error image.png" alt = "image 1">
-      <img id = "pic2" src ="error image.png" alt = "image 2">
-      <img id = "pic3" src = "error image.png" alt = "image 3">
+    
       <p id = "postcode">POSTCODE: n/a</p>
+      <div class="row">
+        <div class="col-sm">
+          <img id="pic1" src="error image.png" alt = "image 1">
+        </div>
+        <div class="col-sm">
+          <div class = "row">
+            <img id = "pic2" src ="error image.png" alt = "image 2">
+          </div>
+          <div class = "row">
+            <img id = "pic3" src = "error image.png" alt = "image 3">
+          </div>
+        </div>
+      </div>
     </div>
 
     <script>
