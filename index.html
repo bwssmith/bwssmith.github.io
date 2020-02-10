@@ -1,5 +1,6 @@
 <html>
   <head>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
@@ -18,22 +19,33 @@
   </script>
   </head>
   <body>
-    alert(window.screen.availWidth);
     <p class="font-weight-bold">He'll yeah dynamic images</p>
-    <div class = "container">
-      <p id = "postcode">POSTCODE: n/a</p>
-      <div class="row">
-        <div class="col-sm">
-          <img id="pic1" src="error image.png" alt = "image 1" width="750" height="450">
-        </div>
-        <div class="col-sm">
-          <div class = "row">
-            <img id = "pic2" src ="error image.png" alt = "image 2" width="375" height="225">
-          </div>
-          <div class = "row">
-            <img id = "pic3" src = "error image.png" alt = "image 3" width="375" height="225">
-          </div>
-        </div>
+    <div class="w3-row" id="myGrid" style="margin-bottom:128px">
+      <div class="w3-third">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+      </div>
+    
+      <div class="w3-third">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+      </div>
+    
+      <div class="w3-third">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
+        <img src="error image.png" style="width:100%">
       </div>
     </div>
 
@@ -49,10 +61,10 @@
         }, 5000);
       }
       function updatePictures(increment) {
-        $("#pic1").attr("src",window.houses[increment].getElementsByTagName("picture2")[0].textContent);
-        $("#pic2").attr("src",window.houses[increment].getElementsByTagName("picture3")[0].textContent);
-        $("#pic3").attr("src",window.houses[increment].getElementsByTagName("picture4")[0].textContent);
-        $("#postcode").text("POSTCODE: "+window.houses[increment].getElementsByTagName("postcode")[0].textContent);
+        //$("#pic1").attr("src",window.houses[increment].getElementsByTagName("picture2")[0].textContent);
+        //$("#pic2").attr("src",window.houses[increment].getElementsByTagName("picture3")[0].textContent);
+        //$("#pic3").attr("src",window.houses[increment].getElementsByTagName("picture4")[0].textContent);
+        //$("#postcode").text("POSTCODE: "+window.houses[increment].getElementsByTagName("postcode")[0].textContent);
       }
     </script>
   </body>
