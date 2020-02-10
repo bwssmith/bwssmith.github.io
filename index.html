@@ -22,20 +22,12 @@
     <p class="font-weight-bold">He'll yeah dynamic images</p>
     <div class="w3-row-padding" id="myGrid" style="margin-bottom:128px">
       <div class="w3-twothird">
-        <img src="error image.png" style="width:100%">
-        <img src="error image.png" style="width:100%">
-        <img src="error image.png" style="width:100%">
-        <img src="error image.png" style="width:100%">
-        <img src="error image.png" style="width:100%">
-        <img src="error image.png" style="width:100%">
+        <img id ="pic1" src="error image.png" style="width:100%">
       </div>
     
       <div class="w3-third">
-        <img src="error image.png" style="width:100%">
-        <img src="error image.png" style="width:100%">
-        <img src="error image.png" style="width:100%">
-        <img src="error image.png" style="width:100%">
-        <img src="error image.png" style="width:100%">
+        <img id ="pic2" src="error image.png" style="width:100%">
+        <img id ="pic3" src="error image.png" style="width:100%">
         <img src="error image.png" style="width:100%">
       </div>
     </div>
@@ -52,10 +44,10 @@
         }, 5000);
       }
       function updatePictures(increment) {
-        //$("#pic1").attr("src",window.houses[increment].getElementsByTagName("picture2")[0].textContent);
-        //$("#pic2").attr("src",window.houses[increment].getElementsByTagName("picture3")[0].textContent);
-        //$("#pic3").attr("src",window.houses[increment].getElementsByTagName("picture4")[0].textContent);
-        //$("#postcode").text("POSTCODE: "+window.houses[increment].getElementsByTagName("postcode")[0].textContent);
+        $("#pic1").attr("src",window.houses[increment].getElementsByTagName("picture2")[0].textContent);
+        $("#pic2").attr("src",window.houses[increment].getElementsByTagName("picture3")[0].textContent);
+        $("#pic3").attr("src",window.houses[increment].getElementsByTagName("picture4")[0].textContent);
+        $("#postcode").text("POSTCODE: "+window.houses[increment].getElementsByTagName("postcode")[0].textContent);
       }
     </script>
   </body>
