@@ -40,10 +40,10 @@
     <script>
       var h = $(window).height();
       var sh = Math.round(h/3);
-      alert(h+" / "+sh);
-      $("#pic1").attr("style","width:100%;max-height:"+h+"px");
-      $("#pic2").attr("style","width:100%;max-height:"+sh+"px");
-      $("#pic3").attr("style","width:100%;max-height:"+sh+"px");
+      alert(h+" + "+sh);
+      $("#pic1").attr("style","width:100%;max-height:"+h+"px;object-width: cover");
+      $("#pic2").attr("style","width:100%;max-height:"+sh+"px;object-width: cover");
+      $("#pic3").attr("style","width:100%;max-height:"+sh+"px;object-width: cover");
       getTxt();
       function replacePics() {
         var increment = 0;
