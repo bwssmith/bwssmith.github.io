@@ -26,7 +26,6 @@
   </style>
   </head>
   <body>
-    <p>Maybe dynamic images idk man</p>
     <div class="w3-row-padding" id="myGrid">
       <div class="w3-twothird">
         <img id ="pic1" src="error image.png" style="width:100%">
@@ -43,9 +42,9 @@
       var h = $(window).innerHeight();
       var sh = Math.round(h/3);
       alert(sh);
-      $("#pic1").attr("style","max-height="+h+"px");
-      $("#pic2").attr("style","max-height="+sh+"px");
-      $("#pic3").attr("style","max-height="+sh+"px");
+      //$("#pic1").attr("style","max-height="+h+"px");
+      //$("#pic2").attr("style","max-height="+sh+"px");
+      //$("#pic3").attr("style","max-height="+sh+"px");
       getTxt();
       function replacePics() {
         var increment = 0;
