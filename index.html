@@ -40,6 +40,11 @@
     </div>
 
     <script>
+      var h = $(window).innerHeight();
+      alert(h);
+      $("#pic1").attr("style","height="+h+"px");
+      $("#pic2").attr("style","height="+(h/3)+"px");
+      $("#pic3").attr("style","height="+(h/3)+"px");
       getTxt();
       function replacePics() {
         var increment = 0;
